@@ -12,7 +12,7 @@ JWT Authentication
 
 BCrypt Password Hashing
 
-AWS Elastic Beanstalk (Deployment)
+
 
 Swagger UI (API Documentation)
 
